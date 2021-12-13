@@ -58,3 +58,8 @@ WHERE Name like "Layal";
 #4
 DELETE FROM students
 WHERE name like "Layal";
+
+
+##########################
+##  Joins
+##########################
